@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "**Why did you decide to learn Software Development?**"
-date:   2016-12-19 13:00:47 +0000
+title:  "** Why I decided to learn Software Development?**"
+date:   2016-12-19 08:00:47 -0500
 ---
 
 
